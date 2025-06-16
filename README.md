@@ -25,6 +25,10 @@ Currently working as a bartender, crafting coffees and cocktails by day—and wr
 ## 🎨 My Style
 Dark, but always playful.
 
-<!-- Social links coming soon! -->
+## Where you can find me too
+[My 2nd GitHub Profile](https://github.com/Checkm8Croft)
+[X](https://x.com/checkm8ra1n)
+# Discord ID: checkm8croft
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Checkm8ra1n&layout=compact&theme=dark)
