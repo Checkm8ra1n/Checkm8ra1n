@@ -15,6 +15,12 @@ Currently working as a bartender, crafting coffees and cocktails by day—and wr
 - Designing playful, dark-themed interfaces
 - Making photos
 - Biking and enjoying the outdoors
+- Playing Videogames
+
+## 🔫 Which Videogames I like
+- 🔫 Tomb Raider
+- ⛏️ Minecraft
+- 👾 Arcade and Retro games such as 🍄 Super Mario 🌻 Sonic 
 
 ## 🎨 My Style
 Dark, but always playful.
