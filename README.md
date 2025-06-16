@@ -20,3 +20,5 @@ Currently working as a bartender, crafting coffees and cocktails by day—and wr
 Dark, but always playful.
 
 <!-- Social links coming soon! -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Checkm8ra1n&layout=compact&theme=dark)
