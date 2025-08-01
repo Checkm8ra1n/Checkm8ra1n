@@ -32,4 +32,4 @@ Dark, but always playful.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Checkm8ra1n&layout=compact&theme=dark)
-![Checkm8ra1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Checkm8ra1nt&show_icons=true)
+![Checkm8ra1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Checkm8ra1n&show_icons=true)
